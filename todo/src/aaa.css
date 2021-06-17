@@ -1,0 +1,11 @@
+body
+{
+    text-align: center;
+    background-color: beige;
+}
+button
+{
+    border-color: black;
+    background-color: beige;
+    color: black;
+}
